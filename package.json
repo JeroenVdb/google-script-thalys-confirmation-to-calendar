@@ -11,6 +11,6 @@
   "devDependencies": {
     "mocha": "^8.4.0",
     "nyc": "^15.0.0",
-    "rewire": "^4.0.1"
+    "rewire": "^6.0.0"
   }
 }
